@@ -1,0 +1,23 @@
+# ninja log v5
+1	920	1760749351525061751	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d2deb9ed54d9d968
+1	899	1760749351503830202	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8f17ce7b9d0801fe
+2	850	1760749351456088789	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5300b73b0b1d9a7e
+1	820	1760749351426582228	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	919d325ed04fb1f9
+920	1040	1760749351644416118	/Users/riyagupta/Downloads/AnotherAudioRecorder/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/m491f519/obj/arm64-v8a/libgame.so	3cad004a7ec0e63c
+2	803	1760749351409834079	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	9a18c423e0beb833
+1	795	1760749351397586081	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ab10df64f58a57e1
+189	363	1760749350947242561	/Users/riyagupta/Downloads/AnotherAudioRecorder/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/m491f519/obj/arm64-v8a/libswappywrapper.so	b29068f455342b47
+1	794	1760749351398121537	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d77e937c8fa78bf7
+1	791	1760749351395465505	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6006ed218ff88ef5
+2	188	1760749350797077096	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b65448af55848c5f
+4	861	1760752088391527805	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b65448af55848c5f
+862	1229	1760752088730396458	/Users/riyagupta/Downloads/AnotherAudioRecorder/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/m491f519/obj/arm64-v8a/libswappywrapper.so	b29068f455342b47
+3	1441	1760752088967269343	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ab10df64f58a57e1
+3	1442	1760752088968597057	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d77e937c8fa78bf7
+4	1443	1760752088968612765	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6006ed218ff88ef5
+4	1449	1760752088978990809	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	9a18c423e0beb833
+3	1462	1760752088993773289	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	919d325ed04fb1f9
+4	1505	1760752089037255974	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5300b73b0b1d9a7e
+4	1545	1760752089074564050	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8f17ce7b9d0801fe
+2	1577	1760752089106592562	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d2deb9ed54d9d968
+1577	1694	1760752089226638574	/Users/riyagupta/Downloads/AnotherAudioRecorder/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/m491f519/obj/arm64-v8a/libgame.so	3cad004a7ec0e63c

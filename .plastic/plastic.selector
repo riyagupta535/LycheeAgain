@@ -1,0 +1,4 @@
+repository "AnotherAudioRecorder/AnotherAudioRecorder@20067527828848@cloud"
+  path "/"
+    br "/main"
+    co "/main"
